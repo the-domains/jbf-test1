@@ -1,0 +1,14 @@
+layout_spectrum: 0.12315771705470979
+typography_spectrum: 0.6128786953631788
+color:
+  brandStrength: 0.0666903737001121
+  lightness: 0.4253899909090251
+  saturation: 0.701273713260889
+  rhythmicContrast: 0.8966366543900222
+  brandColors:
+    - '#225378'
+    - '#1695A3'
+    - '#ACF0F2'
+    - '#F3FFE2'
+    - '#EB7F00'
+name: JBF test1
